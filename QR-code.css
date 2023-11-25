@@ -1,0 +1,47 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.card {
+    width: 20vw;
+    height: 65vh;
+    border-radius: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    color: Grayish-blue hsl(220, 15%, 55%);
+    
+}
+
+section {
+    background-color: white;
+    font-family: outfit, sans-serif;
+    margin-top: 70px;
+    box-shadow: 5px, 5px, 5px, Dark-blue hsl(218, 44%, 22%) inset;
+
+    
+}
+
+img {
+    width: 275px;
+    height: 250px;
+    border-radius: 3%;
+    
+}
+
+h1 {
+    font-size: 24px;
+
+}
+
+h2 {
+    font-size: 15px;
+}
